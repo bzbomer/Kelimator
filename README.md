@@ -1,18 +1,20 @@
 # Kelimator
-Kelime Oyunu. İntelliJ'de java ile geliştirildi. (Grup Projesi)
+Kelime Oyunu. 
+
+İntelliJ'de java ile geliştirildi. (Grup Projesi)
 
 Java'daki veri yapılarını kullandığımız proje.
 
 Kullanılan veri yapıları:
-BinaryTree
-Heap
-ArrayList
-LinkedList
-HashMap
+BinaryTree,
+Heap,
+ArrayList,
+LinkedList,
+HashMap,
 Stack
 
 Sıralama ve arama algoritmaları olarak:
-MergeSort
+MergeSort,
 BinarySearch
 
 Projenin sadece kodları ve ekran görüntüsü burada mevcut.
